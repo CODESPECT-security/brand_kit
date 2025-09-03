@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Vrstva_1" data-name="Vrstva 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 397.72 333.99">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #00a6e6;
+      }
+    </style>
+  </defs>
+  <g>
+    <polyline class="cls-2" points="312.41 165.74 264.43 165.74 229.78 133.23 195.13 165.74 146.85 165.74 229.78 85.13 312.41 165.74"/>
+    <polygon class="cls-2" points="260.65 167.88 178.24 248.5 178.05 248.31 178.08 248.31 178.08 200.23 178.24 200.39 212.89 167.88 260.65 167.88"/>
+    <polyline class="cls-2" points="85.31 165.93 169.09 85.31 215.73 85.31 168.07 131.28 133.42 165.93 168.07 200.57 168.07 248.67 85.31 165.93"/>
+    <polyline class="cls-2" points="90.89 224.62 114.94 248.67 162.49 201.13 138.44 177.08 90.89 224.62"/>
+  </g>
+  <rect class="cls-1" width="397.72" height="333.99"/>
+</svg>
