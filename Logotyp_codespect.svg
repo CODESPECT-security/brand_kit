@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Vrstva_1" data-name="Vrstva 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1137.98 228.24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6f62a8;
+        font-family: Nudista, Nudista;
+        font-size: 152.89px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #00a6e6;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <polygon class="cls-3" points="225.85 113.87 188.88 113.87 162.18 88.82 135.49 113.87 98.29 113.87 162.18 51.76 225.85 113.87"/>
+      <polygon class="cls-3" points="185.97 115.51 122.48 177.62 122.33 177.48 122.35 177.48 122.35 140.43 122.48 140.56 149.17 115.51 185.97 115.51"/>
+      <g>
+        <polygon class="cls-3" points="114.64 177.76 50.88 114.01 115.43 51.9 151.36 51.9 114.64 87.31 87.94 114.01 114.64 140.7 114.64 177.76"/>
+        <rect class="cls-3" x="69.66" y="124.28" width="26.21" height="51.8" transform="translate(130.43 -14.54) rotate(45)"/>
+      </g>
+    </g>
+    <text class="cls-1" transform="translate(242.51 170.01)"><tspan x="0" y="0">CODESPECT</tspan></text>
+  </g>
+  <rect class="cls-2" width="1137.98" height="228.24"/>
+</svg>
